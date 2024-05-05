@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 May 2024 01:21:10 at https://angelablack.carbonmade.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://angelablack.carbonmade.com/ -O1 "C:\Users\Tufail\Desktop\carbon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:21:59	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/b5uklW7lNrTdvZ9W1xxe2c;crop(0,34,824,618 (from https://angelablack.carbonmade.com/)
+01:22:00	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/8SnBr6OQdcHb6eOk4PBKyM;crop(129,0,441,331 (from https://angelablack.carbonmade.com/)
+01:22:01	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/21exwmfSjgwc0EbNT46XEe;crop(108,0,441,331 (from https://angelablack.carbonmade.com/)
+01:22:01	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/9StMk09KwjcbMLKeqduhhs;crop(0,1,2000,1500 (from https://angelablack.carbonmade.com/)
+01:22:02	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/f6A8rHvpAOhf2y3TP0cXbQ;crop(74,0,553,415 (from https://angelablack.carbonmade.com/)
+01:22:02	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/dTrcTa13xSRfKAWRobhG4T;crop(21,0,376,282 (from https://angelablack.carbonmade.com/)
+01:22:03	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/lVQ2BRm9GEYeTHHEux9jZf;crop(3,0,592,444 (from https://angelablack.carbonmade.com/)
+01:22:03	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/35E6B0MTUIWf8Dfh9GFFwX;crop(0,210,750,562 (from https://angelablack.carbonmade.com/)
+01:22:05	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/eUAq0kPt21Qco3DlB3G7JK;crop(139,0,441,331 (from https://angelablack.carbonmade.com/)
+01:24:16	Error: 	"Bad Request" (400) at link https://twitter.com/angelablack (from https://angelablack.carbonmade.com/)
+01:24:16	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/gCkbcIvvCjocCji7ZiHOqW;1844x1080.jpeg?auto=webp' (from https://angelablack.carbonmade.com/about)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/'https://carbon-media.accelerator.net/00000009yC9/46x3Cd6Ne7Hddi1ldC2F8n;864x1080.jpeg?auto=webp' (from https://angelablack.carbonmade.com/contact)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/jIV6Vu3sxAYfdaSMJIM90x;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/5501048)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/cpYp2jDbRrTbGdkD9WUMia;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/4656810)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/gcMwIgFHvrdc2yTeHdn7B8;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/7043020)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/lPkeJIwJF9td9f8At1DJF7;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/2840997)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/bGdOzPdTh2fcWBcMjgmS7X;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/5501081)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/9sTvffTGmyQe7Cz0qf0bf6;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/2840974)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/iCyN6LYOgzUdcAqzXeFOy4;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/2849326)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/a2B2wC1f95hgrGGh7Nw0v6;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/6801119)
+01:24:26	Error: 	"Not Found" (404) at link https://angelablack.carbonmade.com/projects/'https://carbon-media.accelerator.net/00000009yC9/lwXv8WJgtC8ebcVCNGzqBj;1516x1080.png?auto=webp' (from https://angelablack.carbonmade.com/projects/5501052)
+01:24:46	Error: 	"Not Found" (404) at link https://carbonmade.com/wp-json/ (from https://carbonmade.com/?campaign=c3-footer)
+01:24:46	Error: 	"Forbidden" (403) at link https://carbonmade.com/xmlrpc.php?rsd (from https://carbonmade.com/?campaign=c3-footer)
+01:39:05	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

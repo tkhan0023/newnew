@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+angelablack.carbonmade.com	TRUE	/	FALSE	1999999999	_cid	6LI6eA1dgDp9jQFYF6htIu
+angelablack.carbonmade.com	TRUE	/	FALSE	1999999999	samesite	lax
+carbonmade.com	TRUE	/	FALSE	1999999999	_cid	cSJrIyQvEBKdX8gGZaJWa9
+carbonmade.com	TRUE	/	FALSE	1999999999	samesite	lax
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	JqD0ziL7SbOWvEmcO8hJwh
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.instagram.com	TRUE	/	FALSE	1999999999	mid	ZjaSXwAEAAHXfg5t_AZlNlYIcrNA
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A171485245662317910
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A171485245662317910
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_dyi3jwlVhJNoKFTsf2bWew=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A171485245662317910
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+
